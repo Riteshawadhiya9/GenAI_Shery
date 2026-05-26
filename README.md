@@ -142,7 +142,7 @@ This project is open source. Please see the LICENSE file for more details (if ap
 
 ## 👤 Author
 
-**Your Name**
+**Ritesh Awadhiya**
 
 ## 🤝 Support
 
@@ -160,3 +160,4 @@ For support, email your-email@example.com or open an issue in the repository.
 
 - Python Documentation: https://docs.python.org/
 - Pydantic: https://pydantic-docs.helpmanual.io/
+- LangChain: https://python.langchain.com/
