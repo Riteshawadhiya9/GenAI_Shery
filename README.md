@@ -32,7 +32,7 @@ GenAI_Shery/
 ### Prerequisites
 
 - Python 3.8 or higher
-- pip (Python package manager)
+- uv (Python package manager)
 
 ### Installation
 
@@ -61,14 +61,14 @@ source .venv/bin/activate
 
 4. Install dependencies:
 ```bash
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ## 📦 Dependencies
 
 All required dependencies are listed in `requirements.txt`. Install them using:
 ```bash
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ## 🎯 Usage
