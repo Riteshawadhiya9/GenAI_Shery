@@ -98,6 +98,10 @@ UIchatbot.run()
 ## 🏗️ Architecture
 
 - **chatmodels/**: Contains the core chat engine and bot implementations
+
+## Notes
+- [notes](https://riteshawadhiya9.github.io/GenAI_Shery_1/notes.pdf) 
+
 - **CineSage/**: Handles data validation and pydantic schemas
 
 ## 🛠️ Development
